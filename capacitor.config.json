@@ -1,0 +1,7 @@
+{
+  "appId": "com.terasology.juego",
+  "appName": "Terasology",
+  "webDir": "www",
+  "android": { "allowMixedContent": false },
+  "backgroundColor": "#3a5a8a"
+}
